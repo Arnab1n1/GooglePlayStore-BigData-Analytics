@@ -1,0 +1,9 @@
+*.class
+*.jar
+bin/
+target/
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+Dataset/Google-Playstore.csv
